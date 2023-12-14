@@ -1,8 +1,8 @@
 {
   "version": 2,
-  "dgSpecHash": "k6M74LNIojSm0zuFPX6Qaq2M2HlTd5kncpp7mqtzd8hezSBN/lbiHq+kZ4WAGmrjfRrPfUT1JA6wGvLcbfaCAA==",
+  "dgSpecHash": "U7q6OtD8v3p0YkFCKCkoVQ1uKGHXrzAh83o85sNVQ4qj/2cRyQUtT7EOFGK41Gz+RyuTkTkRtUbC2oUemqEZuQ==",
   "success": true,
-  "projectFilePath": "D:\\ms vs\\Services_lullabay\\Services_lullabay.csproj",
+  "projectFilePath": "D:\\ms vs\\lullaby\\lullaby\\Services_lullabay\\Services_lullabay.csproj",
   "expectedPackageFiles": [
     "C:\\Users\\Acer\\.nuget\\packages\\humanizer.core\\2.8.26\\humanizer.core.2.8.26.nupkg.sha512",
     "C:\\Users\\Acer\\.nuget\\packages\\microsoft.aspnetcore.authentication\\2.1.1\\microsoft.aspnetcore.authentication.2.1.1.nupkg.sha512",

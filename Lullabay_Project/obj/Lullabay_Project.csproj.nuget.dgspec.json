@@ -1,17 +1,17 @@
 {
   "format": 1,
   "restore": {
-    "D:\\ms vs\\Lullabay_Project\\Lullabay_Project.csproj": {}
+    "D:\\ms vs\\lullaby\\lullaby\\Lullabay_Project\\Lullabay_Project.csproj": {}
   },
   "projects": {
-    "D:\\ms vs\\Lullabay_Project\\Lullabay_Project.csproj": {
+    "D:\\ms vs\\lullaby\\lullaby\\Lullabay_Project\\Lullabay_Project.csproj": {
       "version": "1.0.0",
       "restore": {
-        "projectUniqueName": "D:\\ms vs\\Lullabay_Project\\Lullabay_Project.csproj",
+        "projectUniqueName": "D:\\ms vs\\lullaby\\lullaby\\Lullabay_Project\\Lullabay_Project.csproj",
         "projectName": "Lullabay_Project",
-        "projectPath": "D:\\ms vs\\Lullabay_Project\\Lullabay_Project.csproj",
+        "projectPath": "D:\\ms vs\\lullaby\\lullaby\\Lullabay_Project\\Lullabay_Project.csproj",
         "packagesPath": "C:\\Users\\Acer\\.nuget\\packages\\",
-        "outputPath": "D:\\ms vs\\Lullabay_Project\\obj\\",
+        "outputPath": "D:\\ms vs\\lullaby\\lullaby\\Lullabay_Project\\obj\\",
         "projectStyle": "PackageReference",
         "fallbackFolders": [
           "C:\\Program Files (x86)\\Microsoft Visual Studio\\Shared\\NuGetPackages"
@@ -33,8 +33,8 @@
           "net6.0": {
             "targetAlias": "net6.0",
             "projectReferences": {
-              "D:\\ms vs\\Services_lullabay\\Services_lullabay.csproj": {
-                "projectPath": "D:\\ms vs\\Services_lullabay\\Services_lullabay.csproj"
+              "D:\\ms vs\\lullaby\\lullaby\\Services_lullabay\\Services_lullabay.csproj": {
+                "projectPath": "D:\\ms vs\\lullaby\\lullaby\\Services_lullabay\\Services_lullabay.csproj"
               }
             }
           }
@@ -107,14 +107,14 @@
         }
       }
     },
-    "D:\\ms vs\\Services_lullabay\\Services_lullabay.csproj": {
+    "D:\\ms vs\\lullaby\\lullaby\\Services_lullabay\\Services_lullabay.csproj": {
       "version": "1.0.0",
       "restore": {
-        "projectUniqueName": "D:\\ms vs\\Services_lullabay\\Services_lullabay.csproj",
+        "projectUniqueName": "D:\\ms vs\\lullaby\\lullaby\\Services_lullabay\\Services_lullabay.csproj",
         "projectName": "Services_lullabay",
-        "projectPath": "D:\\ms vs\\Services_lullabay\\Services_lullabay.csproj",
+        "projectPath": "D:\\ms vs\\lullaby\\lullaby\\Services_lullabay\\Services_lullabay.csproj",
         "packagesPath": "C:\\Users\\Acer\\.nuget\\packages\\",
-        "outputPath": "D:\\ms vs\\Services_lullabay\\obj\\",
+        "outputPath": "D:\\ms vs\\lullaby\\lullaby\\Services_lullabay\\obj\\",
         "projectStyle": "PackageReference",
         "fallbackFolders": [
           "C:\\Program Files (x86)\\Microsoft Visual Studio\\Shared\\NuGetPackages"

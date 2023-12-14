@@ -23,6 +23,7 @@ namespace Lullabay_Project.Controllers
             var data = _Services.getall();
             return Ok(data);
         }
+        [Authorize(Roles = UserRoles.User)]
         [HttpGet("get by udid")]
         public ActionResult get(string udid)
         {

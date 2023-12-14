@@ -12,3 +12,17 @@ D:\ms vs\Services_lullabay\obj\Debug\net6.0\refint\Services_lullabay.dll
 D:\ms vs\Services_lullabay\obj\Debug\net6.0\Services_lullabay.pdb
 D:\ms vs\Services_lullabay\obj\Debug\net6.0\Services_lullabay.genruntimeconfig.cache
 D:\ms vs\Services_lullabay\obj\Debug\net6.0\ref\Services_lullabay.dll
+D:\ms vs\lullaby\lullaby\Services_lullabay\bin\Debug\net6.0\Services_lullabay.deps.json
+D:\ms vs\lullaby\lullaby\Services_lullabay\bin\Debug\net6.0\Services_lullabay.runtimeconfig.json
+D:\ms vs\lullaby\lullaby\Services_lullabay\bin\Debug\net6.0\Services_lullabay.dll
+D:\ms vs\lullaby\lullaby\Services_lullabay\bin\Debug\net6.0\Services_lullabay.pdb
+D:\ms vs\lullaby\lullaby\Services_lullabay\obj\Debug\net6.0\Services_lullabay.csproj.AssemblyReference.cache
+D:\ms vs\lullaby\lullaby\Services_lullabay\obj\Debug\net6.0\Services_lullabay.GeneratedMSBuildEditorConfig.editorconfig
+D:\ms vs\lullaby\lullaby\Services_lullabay\obj\Debug\net6.0\Services_lullabay.AssemblyInfoInputs.cache
+D:\ms vs\lullaby\lullaby\Services_lullabay\obj\Debug\net6.0\Services_lullabay.AssemblyInfo.cs
+D:\ms vs\lullaby\lullaby\Services_lullabay\obj\Debug\net6.0\Services_lullabay.csproj.CoreCompileInputs.cache
+D:\ms vs\lullaby\lullaby\Services_lullabay\obj\Debug\net6.0\Services_lullabay.dll
+D:\ms vs\lullaby\lullaby\Services_lullabay\obj\Debug\net6.0\refint\Services_lullabay.dll
+D:\ms vs\lullaby\lullaby\Services_lullabay\obj\Debug\net6.0\Services_lullabay.pdb
+D:\ms vs\lullaby\lullaby\Services_lullabay\obj\Debug\net6.0\Services_lullabay.genruntimeconfig.cache
+D:\ms vs\lullaby\lullaby\Services_lullabay\obj\Debug\net6.0\ref\Services_lullabay.dll
